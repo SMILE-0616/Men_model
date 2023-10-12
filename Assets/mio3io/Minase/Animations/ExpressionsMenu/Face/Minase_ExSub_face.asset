@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Minase_ExSub_face
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Default
+    icon: {fileID: 2800000, guid: c934d221dcef7d143a25817e9f2a5bfa, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep
+    icon: {fileID: 2800000, guid: d8bfe414ec57cb840a470ba9401672a7, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile
+    icon: {fileID: 2800000, guid: c33df2502ede9b94f98e19870b5b3e94, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Joy
+    icon: {fileID: 2800000, guid: 1f9fc118bd251534692a738d5c593922, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sad
+    icon: {fileID: 2800000, guid: be06ed26541451e40811fd136b2fa54f, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Anger
+    icon: {fileID: 2800000, guid: bf246acccdd56944289ec69e24a27edc, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pero
+    icon: {fileID: 2800000, guid: 88997ec2260412542a31816e7096e549, type: 3}
+    type: 102
+    parameter:
+      name: Face
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eyes
+    icon: {fileID: 2800000, guid: d569558845b0dc449a5b60fea89c4bb7, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 548327bbd51b0374f9b26fe309a5358a, type: 2}
+    subParameters: []
+    labels: []

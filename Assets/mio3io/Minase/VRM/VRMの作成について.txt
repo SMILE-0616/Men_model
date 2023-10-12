@@ -1,0 +1,17 @@
+★Tips
+UniVRMでコンバートする際、このフォルダの「Minase_VRM.prefab」を使用すると1回のコンバートでそのまま使用可能なVRMを作成できます。改変で別オブジェクトを使用する場合マテリアルをMToonにする必要があります（lilToonに変換機能が付いています）
+
+前提アセットとバージョン
+
+・Minase v1.1
+・UniVRM v0.87.0
+
+※Minase本体のバージョンが異なりモデルのシェイプキーと「VRM/BlendShapes」の中のアニメーションのシェイプキーに差異がある場合エラーでコンバートできないことがあります。
+
+※エクスポートする際「Export Settings」タブの「Reduce BlendShape」にチェックを入れてください。ファイルサイズを大幅に縮小できます。
+※「[VRMFiestPerson]Minase_VRM.Renderers」というエラーが出た場合はresetボタンを押してください。
+
+VRM用の表情は「VRM/BlendShapes/BlendShape.asset」で設定できます。
+揺れものは「SpringBone」にまとめています。
+
+元のモデルはVRChatにフルトラ仕様に合わせて最適化していて腕が長めに作られているので、ビートセイバーのようなゲームで使うVRCを作成する場合は気持ち短めに UpperArm Y0.9 Hand Y1.15 or UpperArm Y0.85 Hand Y1.2 ぐらいにスケールすると動作が自然になる場合があります

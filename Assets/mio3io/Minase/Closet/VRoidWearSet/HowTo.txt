@@ -1,0 +1,26 @@
+VRoidモデルを水瀬用にリネーム＆調整したモデルです
+いくつかのシェイプキーを再現していますが、基本状態に近いのでパラメータを大きく動かしている衣装では使用できない場合があります。
+テクスチャが破綻しないように肩や肘など貫通しますので、シェイプキーで体を隠せない衣装では使用できない場合があります。
+試着テクスチャが提供されていれば確認してからご利用ください。
+
+VRoid 모델을 물세용으로 리네임 & 조정한 모델입니다.
+몇 가지 모양의 키를 재현하고 있습니다만, 기본 상태에 가깝기 때문에 파라미터를 크게 움직이는 의상에서는 사용할 수 없는 경우가 있습니다.
+텍스처가 파탄나지 않도록 어깨와 팔꿈치 등 관통하기 때문에, 셰이프 키로 몸을 숨길 수 없는 의상에서는 사용할 수 없는 경우가 있습니다.
+피팅 텍스쳐가 제공되면 확인 후 이용해주세요.
+
+VRoid model renamed & adjusted for Mizuse.
+Some shape keys are reproduced, but since it is close to the basic state, it may not be usable in costumes where the parameters are moved significantly.
+Shoulders and elbows are penetrated so that the texture does not break, so it may not be usable in costumes where the body cannot be hidden by shape keys.
+Please check the try-on textures, if offered, before using them.
+
+
+★パーカー           = Hoodie
+★ズボン            = Pants
+★ロングコート（シャツ襟） = LongCoat
+
+★Shoes
+・スニーカー           = Basic
+・ハイカットシューズ      = HighTop
+・ハッシュ            = Hush
+・ローファー           = Loafers
+・厚底ブーツ          = ShortBoots

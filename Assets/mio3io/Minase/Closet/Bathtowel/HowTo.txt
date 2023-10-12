@@ -1,0 +1,11 @@
+着物と同じ構造のため足を捻ると破綻しやすいです
+
+① Body Object BlensShape
+
+body_hide_hips: 100
+
+（を使うため、あえて最初からパンツが見えるようにしてあります）
+
+② Bathtowel Object Mesh の Anchor Override に
+
+本体の AutoAnchorObject オブジェクトを割り当ててください（素体と明るさが合うようになります）
